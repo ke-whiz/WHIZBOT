@@ -1,0 +1,88 @@
+Image of the bot 
+1. https://telegra.ph/file/21bc9d6a1d83b88d13dfd.jpg
+2. https://telegra.ph/file/bf030ecd21305acbea4de.jpg
+
+list of all commands
+1. .help - Displays help information about the bot's features and how to use them  
+2. .ping - Checks the bot's responsiveness; it returns a simple "pong" to confirm it's active  
+3. .sticker - Converts an image into a WhatsApp sticker for easy sharing  
+4. .anime - Provides information about a specific anime series, including summaries and ratings  
+5. .meme - Creates and shares a meme, usually by allowing the user to customize text over an image  
+6. .weather - Retrieves the current weather for a specified location  
+7. .translate - Translates a given text into a specified language  
+8. .video - Downloads a video from a specified URL to share or store  
+9. .audio - Downloads audio from a specified URL  
+10. .trivia - Starts a trivia game, asking users random questions to answer  
+11. .roll - Simulates rolling a dice, returning a random number  
+12. .kick - Removes a specified user from the group  
+13. .ban - Bans a specified user from the group, preventing them from rejoining  
+14. .setwelcome - Sets a custom welcome message for new group members  
+15. .setleave - Sets a custom leave message for members who exit the group  
+16. .quote - Fetches a random inspirational quote to share in the chat  
+17. .joke - Retrieves a random joke to entertain group members  
+18. .news - Provides the latest news headlines from various sources  
+19. .info - Displays information about the bot's version and functionalities  
+20. .vv - Retrieves live cricket match scores, updating users on ongoing games  
+21. .status - Saves someone’s WhatsApp status for later viewing  
+22. .intro - Sends a customizable introduction message about the user  
+23. .notes - Allows users to save, read, and delete notes from the bot's memory  
+24. .hack - A prank feature that simulates hacking activities for fun  
+25. .reaction - Sends a random anime reaction image or GIF  
+26. .delspam - Deletes multiple messages from the chat at once  
+27. .editor - Provides options to edit media messages like images and videos  
+28. .autoreact - Automatically reacts to messages based on predefined settings  
+29. .anticall - Automatically declines calls from specified numbers or unknown contacts  
+30. .ssaver - Saves WhatsApp stories from other users for later viewing  
+31. .levelup - Manages user ranks, profiles, and leaderboards based on participation  
+32. .antiviewonce - Automatically downloads messages sent with view-once feature  
+33. .antidelete - Detects and sends notifications for deleted messages in the chat  
+34. .fakereply - Sends a fake reply message from any specified number  
+35. .getall - Retrieves all user IDs from the group or chat  
+36. .stickersearch - Searches for and retrieves stickers based on keywords  
+37. .audioeditor - Provides features to edit audio files, including trimming and effects  
+38. .textprologo - Generates logos from user-defined text inputs  
+39. .pubglogo - Creates customized logos for PUBG Mobile users  
+40. .cat - Sends random cat images for entertainment  
+41. .dog - Sends random dog videos or images  
+42. .delspam - Deletes messages from a user in a group, effectively cleaning the chat  
+43. .menu - Displays the main menu of available commands and features  
+44. .list - Shows a list of available commands or features within the bot  
+45. .forward - Forwards a message to another chat  
+46. .readreceipts - Sends read receipts for specified messages  
+47. .getpp - Retrieves a user's profile picture  
+48. .block - Blocks a specified user  
+49. .unblock - Unblocks a blocked user  
+50. .compress - Compresses an image before converting it into a sticker  
+51. .crop - Crops an image before converting it to a sticker  
+52. .resize - Resizes an image before creating a sticker  
+53. .round - Converts an image into a round-shaped sticker  
+54. .tictactoe - Starts a Tic-Tac-Toe game with a user  
+55. .delete - Deletes a specified bot message  
+56. .fact - Sends a random fact  
+57. .truth - Sends a "Truth" question for a truth-or-dare game  
+58. .dare - Sends a "Dare" challenge for a truth-or-dare game  
+59. .bored - Provides activity suggestions when you're bored  
+60. .cekresi - Tracks a package shipment using a tracking number  
+61. .ytmp3 - Downloads audio from a YouTube link  
+62. .ytmp4 - Downloads video from a YouTube link  
+63. .igstalk - Stalks an Instagram account and provides its info  
+64. .wame - Generates a WhatsApp direct message link  
+65. .lyrics - Searches for and provides the lyrics of a song  
+66. .tomp3 - Converts a video into an MP3 file  
+67. .animeinfo - Retrieves detailed information about an anime  
+68. .qrdecode - Decodes the QR code from an image  
+69. .playstore - Searches for apps on the Play Store and provides download links
+
+Bot Description
+CLING-MD is an advanced WhatsApp bot designed to make group and personal chats more engaging and fun by offering a variety of utilities, entertainment features, and moderation tools. Users can interact with the bot via commands to create memes, get weather updates, convert media, manage groups, play games, and much more. Whether for fun or functionality, CLING-MD ensures a seamless experience. 
+
+**References:**
+- https://github.com/wasixd/WASI-MD  
+- https://github.com/Limule3650/Suhail-Md-Bot  
+- https://github.com/adiwajshing/Baileys  
+- https://github.com/YogaSakti/imageToSticker  
+- https://github.com/DikaArdnt/Hisoka-Morou  
+- https://github.com/fdciabdul/InsideHeartz  
+- https://github.com/SlavyanDesu/ElainaBOT  
+
+The WhatsApp link  https://chat.whatsapp.com/BGhx4RFgaODJhD0TsYd2fl
