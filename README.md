@@ -1,23 +1,20 @@
-
 # Cling-Md
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ;HOPE+YOU+ENJOY💞;...;TEAM WHIZ." alt="Typing SVG" /></a>
-</div>
-<br>
-
-<div align="center">
+  </p>
+  <br>
+ <align="center">
   <a href="https://chat.whatsapp.com/BGhx4RFgaODJhD0TsYd2fl">
     <img alt="Suhail docs" height="300" src="https://telegra.ph/file/bf030ecd21305acbea4de.jpg">
   </a>
-</div>
-
+</p>
+   
 <p align="center">
   <a href="https://wa.me/+254754783683?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Cling-Md+Repo" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Cling_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103" />
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 </p>
 
@@ -47,35 +44,29 @@
 
 ---
 
-## Table of Contents
-1. [Deployment Methods](#deployment-methods)
-2. [Command List](#command-list)
-3. [License](#license)
-4. [Disclaimer](#disclaimer)
-5. [Contributing](#contributing)
-
 ## Deployment Methods
-**Get `SESSION ID` by [`SCANNING QR`](https://cling-md.onrender.com/) Or [`PAIRING CODE`](https://cling-md.onrender.com/code).  Then `Go-to WhatsApp > Three dots > Linked Devices`.**
+**Get `SESSION ID` by [`SCANING QR`](https://cling-md.onrender.com/) Or [`PARING CODE`](https://cling-md.onrender.com/code). Then `Go-to WhatsApp > Three dots > Linked Devices`**
 
 **Deploy Now [`deploy`](https://cling-md.mystrikingly.com/)**
 
-## Command List
-Here are some of the key commands you can use with CLING-MD:
-- **.help** - Displays help information about the bot's features.
-- **.ping** - Checks the bot's responsiveness.
-- **.sticker** - Converts an image into a WhatsApp sticker.
-- **.anime** - Provides information about a specific anime series.
-- **.weather** - Retrieves the current weather for a specified location.
+---
 
-(You can expand this list as more commands are implemented.)
+*Cling-Md is not made by `WhatsApp Inc.` Misusing the bot might `ban` your `WhatsApp account!`*
 
-## License
-Cling-Md is licensed under the GPL-3 License. For more details, see the [LICENSE](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+*I'm not responsible for banning your account. Use Cling-Md at your own risk.*
 
-## Disclaimer
-*Cling-Md is not made by `WhatsApp Inc.` Using the bot improperly might result in a `ban` of your `WhatsApp account!` In that case, I'm not responsible for any bans. Use Cling-Md at your own risk by keeping this warning in mind.*
-
-## Contributing
-If you would like to contribute to Cling-Md, please create an issue or pull request on the [GitHub repository](https://github.com/whizmburu/Cling-Md). Your contributions are welcome!
+[`I prefer heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)
 
 ---
+
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Advanced WhatsApp Bot Features\
+⚡️ Easy to deploy
+
+---
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](http://img.shields.io/:license-gpl-blue.svg?style=flat-square)](https://opensource.org/licenses/GPL-3.0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+254754783683?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Cling-Md+Repo)
