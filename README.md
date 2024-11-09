@@ -15,12 +15,14 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://ibb.co/m87nCyM" width="300" alt="WHIZBOT Image">
+  <img src="https://ibb.co/m87nCyM" width="300" alt="https://ibb.co/m87nCyM">
 </p>
 
   <img src="https://img.shields.io/github/followers/ke-whiz?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ke-whiz.visitor-badge" alt="Visitor Badge">
-  <img src="https://img.shields.io/github/stars/ke-whiz?label=Stars&style=social" alt="GitHub Stars">
+  <p align="center">
+  <img src="https://ibb.co/m87nCyM" width="300" alt="WHIZBOT Image">
+  </p>
+  src="https://img.shields.io/github/stars/ke-whiz?label=Stars&style=social" alt="GitHub Stars">
 </p>
 
 
