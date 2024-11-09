@@ -11,26 +11,18 @@
 
 
 
-# WHIZBOT KE
-
->welcome back 
-
-:star: Star me on GitHub — it helps!
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FFD700&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ;HOPE+YOU+ENJOY💞;...;TEAM WHIZ." alt="Typing SVG" /></a>
-</div>
-
 <h1 align="center">Welcome to the Hub of WHIZ!</h1>
 <p align="center">
+
+<p align="center">
+  <img src="https://ibb.co/m87nCyM" width="300" alt="WHIZBOT Image">
+</p>
+
   <img src="https://img.shields.io/github/followers/ke-whiz?label=Followers&style=social" alt="GitHub Followers">
   <img src="https://visitor-badge.glitch.me/badge?page_id=ke-whiz.visitor-badge" alt="Visitor Badge">
   <img src="https://img.shields.io/github/stars/ke-whiz?label=Stars&style=social" alt="GitHub Stars">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jnK5rACcgxf9pgjb8I/giphy.gif" width="200" height="200">
-</p>
 
 ---
 
